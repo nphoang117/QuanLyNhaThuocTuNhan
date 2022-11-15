@@ -1,0 +1,12 @@
+Quản lý :
+
+tên đăng nhập : nvhoc 
+MK	      :123456
+<-------------------------->
+Nhân viên bán hàng:
+
+tên đăng nhập :nphoang 
+MK	      :123456
+---------------------
+tên đăng nhập :dkmngoc
+MK	      :123456
